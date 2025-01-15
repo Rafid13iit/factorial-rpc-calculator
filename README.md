@@ -5,9 +5,11 @@ A simple RPC (Remote Procedure Call) implementation for calculating factorials u
 ## Project Structure
 ```
 factorial-rpc/
-├── server.js    # RPC Server implementation
-├── client.js    # RPC Client implementation
-└── README.md    # Project documentation
+├── server.js       # RPC Server implementation
+├── client.js       # RPC Client implementation
+├── .gitignore      # git ignored files
+├── package.json    # dependencies
+└── README.md       # Project documentation
 ```
 
 ## Features
